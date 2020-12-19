@@ -1,8 +1,9 @@
 package main
 
 import (
-	"myanmar-captcha/mmcaptcha"
 	"testing"
+
+	"github.com/ezysign/myanmar-captcha/mmcaptcha"
 )
 
 func BenchmarkRandInt(b *testing.B) {
