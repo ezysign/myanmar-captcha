@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"myanmar-captcha/mmcaptcha"
+
+	"github.com/ezysign/myanmar-captcha/mmcaptcha"
 )
 
 func main() {
